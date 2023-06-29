@@ -1,13 +1,11 @@
-# weather.guru
+# weather.guru 天気アプリ
 
-ネイティブJavaScriptで作られたシンプルな天気アプリケーション
+ネイティブJavaScriptで作られたシンプルな天気アプリケーション 天気アプリ
 
 ## Installation
 
-git clone https://github.com/amodotomi/weather.guru
-
 ```bash
-
+git clone https://github.com/amodotomi/weather.guru
 ```
 
 ## Usage
@@ -17,7 +15,7 @@ git clone https://github.com/amodotomi/weather.guru
 ```bash
 export const getWeatherData = async (city) => {
     try {
-        const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=633f35fdf4df62e35d09ia55b9148165&lang=en&units=metric`);      // example api key (have to be your openweather api key)
+        const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=633f3f4df62e35d09ia55b1148165&lang=en&units=metric`);      // example api key (have to be your openweather api key | API キーの例 (openweather である必要があります)
 
         return await response.json();
 
