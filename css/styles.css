@@ -1,0 +1,10 @@
+@import './settings.css';
+@import './header.css';
+@import './content.css';
+@import './media.css';
+
+body {
+    background: url(../img/nice.jpg);
+    background-size: height 100%;
+}
+  
