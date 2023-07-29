@@ -1,4 +1,16 @@
-# weather.guru 天気アプリ
+<h2 align="left">weather.guru 天気アプリ</h2>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/uQpOKELqUqoAAAAS/sangatsu-no-lion-3gatsu-no-lion.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="150" alt="javascript logo"  />
+</div>
+
+###
 
 ネイティブJavaScriptで作られたシンプルな天気アプリケーション 天気アプリ
 
@@ -25,13 +37,6 @@ export const getWeatherData = async (city) => {
 };
 ```
 
-## Contributing
-
-- Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-- Please make sure to update tests as appropriate.
-
 ## License
 
-- [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+- [MIT](https://choosealicense.com/licenses/mit/)
