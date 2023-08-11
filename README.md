@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/amodotomi/weather.guru
+git clone https://github.com/kenjitheman/weather.guru
 ```
 
 ## Usage
