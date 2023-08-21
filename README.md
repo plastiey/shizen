@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/uQpOKELqUqoAAAAS/sangatsu-no-lion-3gatsu-no-lion.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="150" alt="javascript logo"  />
 </div>
