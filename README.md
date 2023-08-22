@@ -1,4 +1,4 @@
-<h2 align="left">weather.guru 天気アプリ</h2>
+<h2 align="left">weather.guru</h2>
 
 ###
 
@@ -6,13 +6,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="150" alt="javascript logo"  />
 </div>
 
-###
-
-ネイティブJavaScriptで作られたシンプルな天気アプリケーション 天気アプリ
-
 ## Installation
 
-```bash
+```
 git clone https://github.com/kenjitheman/weather.guru
 ```
 
