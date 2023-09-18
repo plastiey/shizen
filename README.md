@@ -4,7 +4,7 @@
 
 ## installation
 
-```
+```shell
 git clone https://github.com/kenjitheman/weather.guru
 ```
 
@@ -12,7 +12,7 @@ git clone https://github.com/kenjitheman/weather.guru
 - you have to have your openweather api key to use it
 - paste your api key in api.js file (js folder)
 
-```
+```js
 export const getWeatherData = async (city) => {
     try {
         const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=633f3f4df62e35d09ia55b1148165&lang=en&units=metric`);      // example api key (have to be your openweather api key | API キーの例 (openweather である必要があります)
