@@ -1,4 +1,4 @@
-<h2 align="center">weather app</h2>
+# weather app
 
 ###
 
