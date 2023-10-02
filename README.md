@@ -5,7 +5,7 @@
 ## installation
 
 ```shell
-git clone https://github.com/kenjitheman/weather.guru
+git clone https://github.com/kenjitheman/weatherman.lol
 ```
 
 ## usage
